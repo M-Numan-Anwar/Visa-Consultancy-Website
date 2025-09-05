@@ -1,0 +1,91 @@
+@extends('layouts.app')
+
+@section('content')
+
+<div class="hero-section hero-slider owl-carousel owl-theme">
+            <div class="hero-single" style="background-image: url(assets/img/slider/slider-1.jpg)">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-7 col-lg-7">
+                            <div class="hero-content">
+                                <h6 class="hero-sub-title wow animate__animated animate__fadeInUp"
+                                    data-wow-duration="1s" data-wow-delay=".50s">Best Visa Consulting Agency</h6>
+                                <h1 class="hero-title wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".50s">
+                                    We Are Trusted Visa And <span>Immigration</span> Agency
+                                </h1>
+                                <p class="wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".75s">
+                                    There are many variations of passages available but the majority have suffered
+                                    alteration in some form by injected humour or randomised words.
+                                </p>
+                                <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay="1s">
+                                    <a href="contact.html" class="theme-btn">Contact Us<i
+                                            class="far fa-arrow-right"></i></a>
+                                    <a href="about.html" class="theme-btn theme-btn2">About Us<i
+                                            class="far fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-single" style="background-image: url(assets/img/slider/slider-2.jpg)">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-7 col-lg-7">
+                            <div class="hero-content">
+                                <h6 class="hero-sub-title wow animate__animated animate__fadeInUp"
+                                    data-wow-duration="1s" data-wow-delay=".50s">Best Visa Consulting Agency</h6>
+                                <h1 class="hero-title wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".50s">
+                                    We Are Trusted Visa And <span>Immigration</span> Agency
+                                </h1>
+                                <p class="wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".75s">
+                                    There are many variations of passages available but the majority have suffered
+                                    alteration in some form by injected humour or randomised words.
+                                </p>
+                                <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay="1s">
+                                    <a href="contact.html" class="theme-btn">Contact Us<i
+                                            class="far fa-arrow-right"></i></a>
+                                    <a href="about.html" class="theme-btn theme-btn2">About Us<i
+                                            class="far fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-single" style="background-image: url(assets/img/slider/slider-3.jpg)">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-7 col-lg-7">
+                            <div class="hero-content">
+                                <h6 class="hero-sub-title wow animate__animated animate__fadeInUp"
+                                    data-wow-duration="1s" data-wow-delay=".50s">Best Visa Consulting Agency</h6>
+                                <h1 class="hero-title wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".50s">
+                                    We Are Trusted Visa And <span>Immigration</span> Agency
+                                </h1>
+                                <p class="wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".75s">
+                                    There are many variations of passages available but the majority have suffered
+                                    alteration in some form by injected humour or randomised words.
+                                </p>
+                                <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay="1s">
+                                    <a href="contact.html" class="theme-btn">Contact Us<i
+                                            class="far fa-arrow-right"></i></a>
+                                    <a href="about.html" class="theme-btn theme-btn2">About Us<i
+                                            class="far fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+@endsection
