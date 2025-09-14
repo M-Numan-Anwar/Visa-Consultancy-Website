@@ -6,6 +6,7 @@
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">
+    <meta name="viewport"> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -14,21 +15,22 @@
     <!-- title -->
     <title>Future Prospects Immigration Law Consultant</title>
 
- <!-- favicon -->
-<link rel="icon" type="image/x-icon" href="{{ asset('assets/img/logo/favicon.png') }}">
+        <!-- favicon -->
+        <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/logo/favicon.png') }}">
 
-<!-- css -->
-<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
-<link rel="stylesheet" href="{{ asset('assets/css/all-fontawesome.min.css') }}">
-<link rel="stylesheet" href="{{ asset('assets/css/flaticon.css') }}">
-<link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
-<link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.min.css') }}">
-<link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
-<link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+        <!-- css -->
+        <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <link rel="stylesheet" href="{{ asset('assets/css/all-fontawesome.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/css/flaticon.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
 
-</head>
+        </head>
 
-<body>
+        <body>
 
     <!-- preloader -->
    
@@ -120,7 +122,16 @@
       
         <!-- partner area end -->
 
+
+     
+
+ 
+
         @yield('content')
+
+           <!-- Footer area -->
+      @include('layouts.footer')
+        <!-- Footer area end -->
 
 
     </main>
@@ -128,9 +139,9 @@
 
 
 
-    <!-- footer area -->
+
+
   
-    <!-- footer area end -->
 
 
 

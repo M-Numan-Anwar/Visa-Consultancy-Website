@@ -22,10 +22,10 @@
                                 </p>
                                 <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay="1s">
-                                    <a href="contact.html" class="theme-btn">Contact Us<i
-                                            class="far fa-arrow-right"></i></a>
-                                    <a href="about.html" class="theme-btn theme-btn2">About Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                    <a href="{{ route('contact') }}" class="theme-btn">Contact Us<i
+                                            class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{ route('about') }}" class="theme-btn theme-btn2">About Us<i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -50,10 +50,10 @@
                                 </p>
                                 <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay="1s">
-                                    <a href="contact.html" class="theme-btn">Contact Us<i
-                                            class="far fa-arrow-right"></i></a>
-                                    <a href="about.html" class="theme-btn theme-btn2">About Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                    <a href="{{ route('contact') }}" class="theme-btn">Contact Us<i
+                                            class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{ route('about') }}" class="theme-btn theme-btn2">About Us<i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -139,64 +139,143 @@
 
 
         <!-- about area -->
-        <div class="about-area pb-120">
+     <div class="vc_ab_area ab_page_ab" style="margin-bottom: 3rem;">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="about-left">
-                            <div class="about-img">
-                                <img src="assets/img/about/01.jpg" alt="">
-                            </div>
-                            <div class="about-experience">
-                                <h1>25 <span>+</span></h1>
-                                <span class="about-experience-text">Years Experience</span>
-                            </div>
-                            <div class="about-shape">
-                                <img src="assets/img/about/shape.svg" alt="">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="ab_img">
+                            <div class="single_image_area">
+                                <div class="single_image single_line_option">
+                                    <img src='assets/img/about/about-1.png' alt= img >	
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="about-right">
-                            <div class="site-heading mb-3">
-                                <span class="site-title-tagline">About Us</span>
-                                <h2 class="site-title">We Provide Immigration <span>And Visa</span> Services</h2>
+                    <!-- single item -->
+                    <div class="col-lg-6 col-md-6">
+                        <div class="ab_witr_inner">
+                            <div class="witr_section_title">
+                                <div class="witr_section_title_inner text-center">
+                                    <h2>ABOUT US</h2>
+                                    <h3>Experiences In Visa &amp;</h3>
+                                    <h1>Immigration Firm</h1>
+                                    <p>There are locations in the United states of america as well as ationally. The 
+                                        organization was established in 2000 on the basis of a small idea 
+                                        conceived by its promoters that was incepted. 
+                                    </p>
+                                </div>
                             </div>
-                            <p class="about-text">
-                                There are many variations of passages of Lorem Ipsum available but the majority have
-                                suffered alteration in some form by injected humour or randomised words which don't look
-                                even slightly believable. If you are going to use a passage of Lorem Ipsum you need to
-                                be sure there isn't anything embarrassing hidden in the middle of text.
-                            </p>
-                            <div class="about-list-wrapper">
-                                <ul class="about-list list-unstyled">
-                                    <li>
-                                        <div class="icon"><span class="fas fa-check-circle"></span></div>
-                                        <div class="text">
-                                            <p>Take a look at our round up of the best shows</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon"><span class="fas fa-check-circle"></span></div>
-                                        <div class="text">
-                                            <p>It has survived not only five centuries</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon"><span class="fas fa-check-circle"></span></div>
-                                        <div class="text">
-                                            <p>Lorem Ipsum has been the ndustry standard dummy text</p>
-                                        </div>
-                                    </li>
-                                </ul>
+                            <div class="ab_midd">
+                                <div class="service-item all_color_service text-left">
+                                    <div class="text_box all_icon_color">
+                                        <img src="assets/img/about/icon-1.png" alt="image">
+                                        <h3><a href="#">Expert Agents</a></h3>
+                                        <p>We skillfuly guide the app licants for their. </p>
+                                    </div>
+                                </div>
+                                <div class="service-item all_color_service text-left">
+                                    <div class="text_box all_icon_color">
+                                        <img src="assets/img/about/icon-2.png" alt="image">
+                                        <h3><a href="#">Agents Expert</a></h3>
+                                        <p>We skillfuly guide the app licants for their. </p>
+                                    </div>
+                                </div>
                             </div>
-                            <a href="about.html" class="theme-btn">Discover More <i class="far fa-arrow-right"></i></a>
+                            <div class="witr_button_area">
+                                <div class="witr_btn_style mr">
+                                    <div class="witr_btn_sinner">
+                                        <a href="#" class="witr_btn"> About Us </a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- about area end -->
+
+           <!-- visa about -->
+              <div class="visa_about_area">
+         <div class="container ">
+            <div class="row">
+               <div class="col-lg-6 col-md-6">
+                  <div class="about_image_inner">
+                     <div class="single_image_area">
+                        <div class="single_image single_line_option">
+                           <img src="assets/img/about/about-thumb.jpg" alt="image" />
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6">
+                  <div class="about_content_inner">
+                     <div class="witr_section_title">
+                        <div class="witr_section_title_inner text-left">
+                           <h2>WELCOME TO POKET</h2> 
+                           <h3> Not Just Traditional Visa &amp;</h3>
+                           <h1>Immigration Firm</h1>
+                           <p>There are locations in the United states of america as well as ationally. The organization was established in 2000 on the basis of a small idea conceived by its promoters that was incepted.</p>
+                        </div>
+                     </div>
+                     <div class="ab_service_inner">
+                        <div class="em-service2 sleft all_color_service">
+                           <div class="em_service_content ">
+                              <div class="em_single_service_text ">
+                                 <div class="text_box witr_s_flex">
+                                    <div class="service_top_text all_icon_color">
+                                       <div class="em-service-icon">
+                                         <i class="fa-solid fa-file-pen"></i>
+                                       </div>
+                                    </div>
+                                    <div class="em-service-inner">
+                                       <div class="em-service-title">
+                                          <h3>Visa Consultation</h3>
+                                       </div>
+                                       <div class="em-service-desc">
+                                          <p>We skillfuly guide the app licants for their.</p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="em-service2 sleft all_color_service">
+                           <div class="em_service_content ">
+                              <div class="em_single_service_text ">
+                                 <div class="text_box witr_s_flex">
+                                    <div class="service_top_text all_icon_color">
+                                       <div class="em-service-icon">
+                                          <i class="fa-solid fa-cart-shopping"></i>
+                                       </div>
+                                    </div>
+                                    <div class="em-service-inner">
+                                       <div class="em-service-title">
+                                          <h3>Travel Business</h3>
+                                       </div>
+                                       <div class="em-service-desc">
+                                          <p>We skillfuly guide the app licants for their.</p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="witr_button_area">
+                        <div class="witr_btn_style mr">
+                           <div class="witr_btn_sinner">
+                              <a href="#" class="witr_btn">Our About Us</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      
+        <!-- skill area end -->
 
 
         <!-- visa area -->
@@ -501,66 +580,10 @@
 
 
         <!-- quote area -->
-        <div class="quote-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 offset-lg-6">
-                        <div class="quote-content">
-                            <h1 class="mb-10">
-                                Get Free Consultation
-                            </h1>
-                            <p>It is a long established fact that a reader will be distracted by the
-                                readable content of a page when looking at its layout. </p>
-                            <div class="quote-form">
-                                <form action="#">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" placeholder="Your Name">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" placeholder="Your Email">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <select class="form-select">
-                                                    <option value="0">Select Visa</option>
-                                                    <option value="1">Business Visa</option>
-                                                    <option value="2">Student Visa</option>
-                                                    <option value="3">Tourist Visa</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <select class="form-select">
-                                                    <option value="0">Select Country</option>
-                                                    <option value="1">Australia</option>
-                                                    <option value="2">Canada</option>
-                                                    <option value="3">United States</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <textarea class="form-control" cols="30" rows="4"
-                                                placeholder="Your Message"></textarea>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <button type="submit" class="theme-btn">Get Quote <i
-                                                    class="far fa-arrow-right"></i></button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
         <!-- quote area end -->
+
+        
 
 
 @endsection

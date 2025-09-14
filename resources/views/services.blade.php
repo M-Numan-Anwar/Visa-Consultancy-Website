@@ -2,16 +2,22 @@
 
 @section('content')
 
-  <div class="service-area bg py-120">
+      <!-- breadcrumb -->
+        <div class="site-breadcrumb" style="background: url(assets/img/about/breadcrumb.jpg)">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 mx-auto">
-                        <div class="site-heading text-center">
-                            <span class="site-title-tagline">Visa Type</span>
-                            <h2 class="site-title">What We <span>Offers</span></h2>
-                        </div>
-                    </div>
-                </div>
+                <h2 class="breadcrumb-title">Services</h2>
+                <ul class="breadcrumb-menu">
+                    <li><a href="{{ route('home') }}"><i class="fa-solid fa-house"></i> Home</a></li>
+                    <li class="active">Services</li>
+                </ul>
+            </div>
+        </div>
+        <!-- breadcrumb end -->
+
+
+        <!-- service area -->
+        <div class="service-area bg py-120">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="service-item">
@@ -154,5 +160,6 @@
                 </div>
             </div>
         </div>
+        <!-- service area end -->
 
 @endsection
