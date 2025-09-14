@@ -26,12 +26,12 @@
                                 <div class="widget category">
                                     <h4 class="widget-title">All Country</h4>
                                     <div class="category-list">
-                                        <a href="australia.html"><i class="far fa-angle-double-right"></i>Australia</a>
-                                        <a href="united-states.html"><i class="far fa-angle-double-right"></i>United States</a>
-                                        <a href="canada.html"><i class="far fa-angle-double-right"></i>Canada</a>
-                                        <a href="new-zealand.html"><i class="far fa-angle-double-right"></i>New Zealand</a>
-                                        <a href="singapore.html"><i class="far fa-angle-double-right"></i>Singapore</a>
-                                        <a href="united-kingdom.html"><i class="far fa-angle-double-right"></i>United Kingdom</a>
+                                        <a href="australia.html"><i class="fa-solid fa-angle-double-right"></i>Australia</a>
+                                        <a href="united-states.html"><i class="fa-solid fa-angle-double-right"></i>United States</a>
+                                        <a href="canada.html"><i class="fa-solid fa-angle-double-right"></i>Canada</a>
+                                        <a href="new-zealand.html"><i class="fa-solid fa-angle-double-right"></i>New Zealand</a>
+                                        <a href="singapore.html"><i class="fa-solid fa-angle-double-right"></i>Singapore</a>
+                                        <a href="united-kingdom.html"><i class="fa-solid fa-angle-double-right"></i>United Kingdom</a>
                                     </div>
                                 </div>
                                 <div class="service-quote">
@@ -70,7 +70,7 @@
                                                     </div>
                                                     <div class="form-group">
                                                         <button type="submit" class="theme-btn">Get Quote <i
-                                                                class="far fa-arrow-right"></i></button>
+                                                                class="fa-solid fa-arrow-right"></i></button>
                                                     </div>
                                                 </div>
                                             </form>
@@ -135,15 +135,15 @@
                                                 suscipit dolor, et condimentum felis dolor ac lectus.</p>
                                         </div>
                                         <ul class="service-single-list">
-                                            <li><i class="far fa-check"></i>Fusce justo risus placerat in risus eget
+                                            <li><i class="fa-solid fa-check"></i>Fusce justo risus placerat in risus eget
                                                 tincidunt consequat elit.</li>
-                                            <li><i class="far fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
+                                            <li><i class="fa-solid fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
                                                 placerat.</li>
-                                            <li><i class="far fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
+                                            <li><i class="fa-solid fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
                                             </li>
-                                            <li><i class="far fa-check"></i>Integer quis lorem est uspendisse eu augue
+                                            <li><i class="fa-solid fa-check"></i>Integer quis lorem est uspendisse eu augue
                                                 porta ullamcorper dictum.</li>
-                                            <li><i class="far fa-check"></i>Quisque tristique neque arcu ut venenatis
+                                            <li><i class="fa-solid fa-check"></i>Quisque tristique neque arcu ut venenatis
                                                 felis malesuada et.</li>
                                         </ul>
                                     </div>

@@ -23,21 +23,21 @@
                                 <div class="widget category">
                                     <h4 class="widget-title">Visa Category</h4>
                                     <div class="category-list">
-                                        <a href="business-visa.html"><i class="far fa-angle-double-right"></i>Business Visa</a>
-                                        <a href="student-visa.html"><i class="far fa-angle-double-right"></i>Student Visa</a>
-                                        <a href="job-seeker-visa.html"><i class="far fa-angle-double-right"></i>Job Seeker Visa</a>
-                                        <a href="tourist-visa.html"><i class="far fa-angle-double-right"></i>Tourist Visa</a>
-                                        <a href="family-visa.html"><i class="far fa-angle-double-right"></i>Consular Closings</a>
-                                        <a href="transit-visa.html"><i class="far fa-angle-double-right"></i>Transit Visa</a>
-                                        <a href="migrate-visa.html"><i class="far fa-angle-double-right"></i>Migrate Visa</a>
-                                        <a href="consular-closings.html"><i class="far fa-angle-double-right"></i>Consular Closings</a>
-                                        <a href="diplomatic-visa.html"><i class="far fa-angle-double-right"></i>Diplomatic Visa</a>
+                                        <a href="business-visa.html"><i class="fa-solid fa-angle-double-right"></i>Business Visa</a>
+                                        <a href="student-visa.html"><i class="fa-solid fa-angle-double-right"></i>Student Visa</a>
+                                        <a href="job-seeker-visa.html"><i class="fa-solid fa-angle-double-right"></i>Job Seeker Visa</a>
+                                        <a href="tourist-visa.html"><i class="fa-solid fa-angle-double-right"></i>Tourist Visa</a>
+                                        <a href="family-visa.html"><i class="fa-solid fa-angle-double-right"></i>Consular Closings</a>
+                                        <a href="transit-visa.html"><i class="fa-solid fa-angle-double-right"></i>Transit Visa</a>
+                                        <a href="migrate-visa.html"><i class="fa-solid fa-angle-double-right"></i>Migrate Visa</a>
+                                        <a href="consular-closings.html"><i class="fa-solid fa-angle-double-right"></i>Consular Closings</a>
+                                        <a href="diplomatic-visa.html"><i class="fa-solid fa-angle-double-right"></i>Diplomatic Visa</a>
                                     </div>
                                 </div>
                                 <div class="widget service-download">
                                    <h4 class="widget-title">Download</h4>
-                                   <a href="#"><i class="far fa-file-pdf"></i> Download Brochure</a> 
-                                   <a href="#"><i class="far fa-file-alt"></i> Download Application</a> 
+                                   <a href="#"><i class="fa-solid fa-file-pdf"></i> Download Brochure</a>
+                                   <a href="#"><i class="fa-solid fa-file-alt"></i> Download Application</a>
                                 </div>
                                 <div class="service-quote">
                                     <div class="quote-content">
@@ -75,7 +75,7 @@
                                                     </div>
                                                     <div class="form-group">
                                                         <button type="submit" class="theme-btn">Get Quote <i
-                                                                class="far fa-arrow-right"></i></button>
+                                                                class="fa-solid fa-arrow-right"></i></button>
                                                     </div>
                                                 </div>
                                             </form>
@@ -163,15 +163,15 @@
                                                 suscipit dolor, et condimentum felis dolor ac lectus.</p>
                                         </div>
                                         <ul class="service-single-list">
-                                            <li><i class="far fa-check"></i>Fusce justo risus placerat in risus eget
+                                            <li><i class="fa-solid fa-check"></i>Fusce justo risus placerat in risus eget
                                                 tincidunt consequat elit.</li>
-                                            <li><i class="far fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
+                                            <li><i class="fa-solid fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
                                                 placerat.</li>
-                                            <li><i class="far fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
+                                            <li><i class="fa-solid fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
                                             </li>
-                                            <li><i class="far fa-check"></i>Integer quis lorem est uspendisse eu augue
+                                            <li><i class="fa-solid fa-check"></i>Integer quis lorem est uspendisse eu augue
                                                 porta ullamcorper dictum.</li>
-                                            <li><i class="far fa-check"></i>Quisque tristique neque arcu ut venenatis
+                                            <li><i class="fa-solid fa-check"></i>Quisque tristique neque arcu ut venenatis
                                                 felis malesuada et.</li>
                                         </ul>
                                     </div>

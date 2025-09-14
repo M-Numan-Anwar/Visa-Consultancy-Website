@@ -67,7 +67,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="about.html" class="theme-btn">Discover More <i class="far fa-arrow-right"></i></a>
+                            <a href="about.html" class="theme-btn">Discover More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

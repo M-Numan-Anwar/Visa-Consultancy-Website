@@ -31,7 +31,7 @@
                             </div>
                             <div class="d-flex align-items-center">
                                 <button type="submit" class="theme-btn">Send Reset
-                                    Link <i class="far fa-key"></i></button>
+                                    Link <i class="fa-solid fa-key"></i></button>
                             </div>
                         </form>
                     </div>

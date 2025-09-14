@@ -44,7 +44,7 @@
                                 </label>
                             </div>
                             <div class="d-flex align-items-center">
-                                <button type="submit" class="theme-btn">Register <i class="far fa-paper-plane"></i></button>
+                                <button type="submit" class="theme-btn">Register <i class="fa-solid fa-paper-plane"></i></button>
                             </div>
                         </form>
                         <div class="login-footer">

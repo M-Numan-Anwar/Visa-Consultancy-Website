@@ -22,9 +22,9 @@
                                 <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay="1s">
                                     <a href="contact.html" class="theme-btn">Contact Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                     <a href="about.html" class="theme-btn theme-btn2">About Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -50,9 +50,9 @@
                                 <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay="1s">
                                     <a href="contact.html" class="theme-btn">Contact Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                     <a href="about.html" class="theme-btn theme-btn2">About Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -78,9 +78,9 @@
                                 <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay="1s">
                                     <a href="contact.html" class="theme-btn">Contact Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                     <a href="about.html" class="theme-btn theme-btn2">About Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

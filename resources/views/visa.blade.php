@@ -43,7 +43,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +66,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

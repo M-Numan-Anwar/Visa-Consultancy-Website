@@ -43,10 +43,10 @@
                                 <a href="forgot-password.html" class="forgot-pass">Forgot Password?</a>
                             </div>
                             <div class="d-flex align-items-center">
-                                <button type="submit" class="theme-btn">Login <i class="far fa-sign-in"></i></button>
+                                <button type="submit" class="theme-btn">Login <i class="fa-solid fa-sign-in"></i></button>
                             </div>
                         </form>
-                        
+
                         <div class="login-footer">
                             <p>Don't have an account? <a href="register.html">Register.</a></p>
                         </div>

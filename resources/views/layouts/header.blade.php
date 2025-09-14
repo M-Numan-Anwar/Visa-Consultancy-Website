@@ -35,19 +35,19 @@
                         <img src="assets/img/logo/logo.png" alt="logo">
                     </a>
                     <div class="mobile-menu-right">
-                        <a href="#" class="mobile-search-btn search-box-outer"><i class="far fa-stream"></i></a>
+                        <a href="#" class="mobile-search-btn search-box-outer"><i class="fa-solid fa-stream"></i></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"><i class="far fa-stream"></i></span>
+                            <span class="navbar-toggler-icon"><i class="fa-solid fa-stream"></i></span>
                         </button>
                     </div>
                     <div class="collapse navbar-collapse" id="main_nav">
                         <ul class="navbar-nav ms-auto">
                             <li class="nav-item dropdown">
                                 <a class="nav-link {{ request()->routeIs('home') ? 'active' : '' }}" href="{{ route('home') }}">Home</a>
-                               
+
                             </li>
-                          
+
                             <li class="nav-item dropdown">
                                <a class="nav-link dropdown-toggle {{ request()->routeIs('visa') ? 'active' : '' }}" href="{{ route('visa') }}">Visa</a>
                                 <ul class="dropdown-menu fade-up">
@@ -78,10 +78,6 @@
                                 <ul class="dropdown-menu fade-up">
                                     <li><a class="dropdown-item" href="{{ route('services') }}">Services</a></li>
                                     <li><a class="dropdown-item" href="{{ route('faq') }}">Faq</a></li>
-                                    <li><a class="dropdown-item" href="{{ route('login') }}">Login</a></li>
-                                    <li><a class="dropdown-item" href="{{ route('register') }}">Register</a></li>
-                                    <li><a class="dropdown-item" href="{{ route('forgot-password') }}">Forgot Password</a></li>
-                                    <li><a class="dropdown-item" href="{{ route('404') }}">404 Error</a></li>
                                     <li><a class="dropdown-item" href="{{ route('terms') }}">Terms Of Service</a></li>
                                     <li><a class="dropdown-item" href="{{ route('privacy') }}">Privacy Policy</a></li>
                                 </ul>

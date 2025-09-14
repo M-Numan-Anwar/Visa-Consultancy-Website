@@ -79,9 +79,9 @@
                                 <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay="1s">
                                     <a href="contact.html" class="theme-btn">Contact Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                     <a href="about.html" class="theme-btn theme-btn2">About Us<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="feature-item">
                             <div class="feature-icon">
-                                <i class="flaticon-technology"></i>
+                                <i class="fi fi-tr-laptop-mobile"></i>
                             </div>
                             <div class="feature-content">
                                 <h4><a href="#">Online Visa Application</a></h4>
@@ -146,7 +146,7 @@
                         <div class="ab_img">
                             <div class="single_image_area">
                                 <div class="single_image single_line_option">
-                                    <img src='assets/img/about/about-1.png' alt= img >	
+                                    <img src='assets/img/about/about-1.png' alt= img >
                                 </div>
                             </div>
                         </div>
@@ -159,9 +159,9 @@
                                     <h2>ABOUT US</h2>
                                     <h3>Experiences In Visa &amp;</h3>
                                     <h1>Immigration Firm</h1>
-                                    <p>There are locations in the United states of america as well as ationally. The 
-                                        organization was established in 2000 on the basis of a small idea 
-                                        conceived by its promoters that was incepted. 
+                                    <p>There are locations in the United states of america as well as ationally. The
+                                        organization was established in 2000 on the basis of a small idea
+                                        conceived by its promoters that was incepted.
                                     </p>
                                 </div>
                             </div>
@@ -212,7 +212,7 @@
                   <div class="about_content_inner">
                      <div class="witr_section_title">
                         <div class="witr_section_title_inner text-left">
-                           <h2>WELCOME TO POKET</h2> 
+                           <h2>WELCOME TO POKET</h2>
                            <h3> Not Just Traditional Visa &amp;</h3>
                            <h1>Immigration Firm</h1>
                            <p>There are locations in the United states of america as well as ationally. The organization was established in 2000 on the basis of a small idea conceived by its promoters that was incepted.</p>
@@ -274,7 +274,7 @@
             </div>
          </div>
       </div>
-      
+
         <!-- skill area end -->
 
 
@@ -308,7 +308,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -331,7 +331,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -354,7 +354,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -377,7 +377,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -400,7 +400,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -423,7 +423,7 @@
                                 </p>
                                 <div class="service-arrow">
                                     <a href="#" class="service-read-btn">Learn More<i
-                                            class="far fa-arrow-right"></i></a>
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -435,7 +435,7 @@
 
 
         <!-- skill-area -->
-      
+
         <!-- skill area end -->
 
 
@@ -504,7 +504,7 @@
                         <div class="country-content">
                             <h4><a href="#">United States</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -517,7 +517,7 @@
                         <div class="country-content">
                             <h4><a href="#">Australia</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -530,7 +530,7 @@
                         <div class="country-content">
                             <h4><a href="#">United Kingdom</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -543,7 +543,7 @@
                         <div class="country-content">
                             <h4><a href="#">Canada</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -556,7 +556,7 @@
                         <div class="country-content">
                             <h4><a href="#">Singapore</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -569,7 +569,7 @@
                         <div class="country-content">
                             <h4><a href="#">New Zealand</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -580,10 +580,10 @@
 
 
         <!-- quote area -->
-       
+
         <!-- quote area end -->
 
-        
+
 
 
 @endsection

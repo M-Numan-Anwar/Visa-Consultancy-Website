@@ -23,7 +23,7 @@
                         <div class="country-content">
                             <h4><a href="#">United States</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -36,7 +36,7 @@
                         <div class="country-content">
                             <h4><a href="#">Australia</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -49,7 +49,7 @@
                         <div class="country-content">
                             <h4><a href="#">United Kingdom</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -62,7 +62,7 @@
                         <div class="country-content">
                             <h4><a href="#">Canada</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -75,7 +75,7 @@
                         <div class="country-content">
                             <h4><a href="#">Singapore</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="country-item">
@@ -88,7 +88,7 @@
                         <div class="country-content">
                             <h4><a href="#">New Zealand</a></h4>
                             <p>There are many variations of passages but the majority have suffered alteration in some form by injected humour or randomised words.</p>
-                            <a href="#" class="country-read-btn">Read More <i class="far fa-arrow-right"></i></a>
+                            <a href="#" class="country-read-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

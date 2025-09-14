@@ -6,7 +6,7 @@
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">
-    <meta name="viewport"> 
+    <meta name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -17,6 +17,9 @@
 
         <!-- favicon -->
         <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/logo/favicon.png') }}">
+
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/@flaticon/flaticon-uicons@3.3.1/css/all/all.min.css" rel="stylesheet">
 
         <!-- css -->
         <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
@@ -33,7 +36,7 @@
         <body>
 
     <!-- preloader -->
-   
+
     <!-- preloader end -->
 
 
@@ -43,89 +46,18 @@
 
 
     <!-- popup search -->
-   
+    <div class="search-popup">
+        <button class="close-search"><span class="fa-solid fa-times"></span></button>
+        <form action="#">
+            <div class="form-group">
+                <input type="search" name="search-field" placeholder="Search Here..." required>
+                <button type="submit"><i class="fa-solid fa-search"></i></button>
+            </div>
+        </form>
+    </div>
     <!-- popup search end -->
 
-
-
-
     <main class="main">
-
-        <!-- hero slider -->
-        
-        <!-- hero slider end -->
-
-
-        <!-- feature area -->
-      
-        <!-- feature area -->
-
-
-        <!-- about area -->
-      
-        <!-- about area end -->
-
-
-        <!-- visa area -->
-      
-        <!-- visa area end -->
-
-
-        <!-- skill-area -->
-      
-        <!-- skill area end -->
-
-
-
-        <!-- counter area -->
-       
-        <!-- counter area end -->
-
-
-
-        <!-- coaching -->
-      
-        <!-- coaching -->
-
-
-        <!-- choose area -->
-      
-        <!-- choose area end -->
-
-
-        <!-- testimonial-area -->
-      
-        <!-- testimonial-area end -->
-
-
-        <!-- country area -->
-     
-        <!-- country area end -->
-
-
-        <!-- team-area -->
-      
-        <!-- team-area end -->
-
-
-        <!-- quote area -->
-      
-        <!-- quote area end -->
-
-
-        <!-- blog-area -->
-      
-        <!-- blog-area end -->
-
-
-        <!-- partner area -->
-      
-        <!-- partner area end -->
-
-
-     
-
- 
 
         @yield('content')
 
@@ -133,20 +65,10 @@
       @include('layouts.footer')
         <!-- Footer area end -->
 
-
     </main>
 
-
-
-
-
-
-  
-
-
-
     <!-- scroll-top -->
-    <a href="#" id="scroll-top"><i class="far fa-long-arrow-up"></i></a>
+    <a href="#" id="scroll-top"><i class="fa-solid fa-long-arrow-up"></i></a>
     <!-- scroll-top end -->
 
 
